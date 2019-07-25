@@ -1,1 +1,3 @@
-int a 
+int a;
+a = 3;
+debug
